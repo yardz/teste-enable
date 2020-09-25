@@ -1,14 +1,31 @@
-Nearly empty javascript project with a failing test!
-===
+# Programa
 
 To install the required modules:
 
 ```
-$ yarn install
+$ npm i
 ```
 
-To run the (failing) test:
+to run:
 
 ```
-$ yarn test
+$ npm start
+```
+
+to build:
+
+```
+$ npm run build
+```
+
+to test:
+
+```
+$ npm run test
+```
+
+or
+
+```
+$ npm run test:watch
 ```
